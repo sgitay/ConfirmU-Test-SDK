@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/item_policy.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/item_policy.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/49b2e83bc584680735c9990efa98d465/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/place_autocomplete_item_prediction.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.4.aar/c5e13b7c21652fb91aebd33f3ceb2117/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/facebook-login-4.37.0.aar/cc13f8eb6dc3e61c1d6b55a4aba91f4e/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/item_skills_chat_adapter.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/item_skills_chat_adapter.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5ea1326bacbbb5805950694ce5780b30/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/dialog_aadhar_number.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/dialog_aadhar_number.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/com_facebook_activity_layout.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/activity_faq.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/activity_faq.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/item_social_accounts.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/item_social_accounts.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/activity_about.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/dialog_thanks.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/dialog_thanks.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/49b2e83bc584680735c9990efa98d465/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/activity_jobs.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/activity_jobs.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/activity_chat.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/49b2e83bc584680735c9990efa98d465/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/49b2e83bc584680735c9990efa98d465/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/crop_image_view.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.6.0.aar/50344ede7516ce55b82a15c8bd478f8b/res/layout/crop_image_view.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/item_ask_aadhar_info.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/item_ask_aadhar_info.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/49b2e83bc584680735c9990efa98d465/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5ea1326bacbbb5805950694ce5780b30/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/item_chat_right.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/item_chat_right.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.4.aar/c5e13b7c21652fb91aebd33f3ceb2117/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/activity_intro.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/activity_intro.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/item_skills.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/item_skills.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/49b2e83bc584680735c9990efa98d465/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/activity_home.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/dialog_message.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/dialog_message.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/49b2e83bc584680735c9990efa98d465/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/49b2e83bc584680735c9990efa98d465/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/item_for_living.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/item_for_living.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/item_skills_chat.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/item_skills_chat.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/item_chat_left.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/item_chat_left.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/item_skills_unselected.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/item_skills_unselected.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_tooltip.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/dialog_score.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/dialog_score.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/item_jobs.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/item_jobs.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/place_autocomplete_progress.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.4.aar/c5e13b7c21652fb91aebd33f3ceb2117/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/item_ask_marital.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/item_ask_marital.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/49b2e83bc584680735c9990efa98d465/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/dialog_review.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/dialog_review.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/crop_image_activity.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.6.0.aar/50344ede7516ce55b82a15c8bd478f8b/res/layout/crop_image_activity.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/item_add_job.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/item_add_job.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/dialog_skills.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/dialog_skills.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/com_facebook_login_fragment.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/item_loans_home.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/item_loans_home.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/item_ask_gender.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/layout/item_ask_gender.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/layout/abc_activity_chooser_view_list_item.xml"
+    }
+]

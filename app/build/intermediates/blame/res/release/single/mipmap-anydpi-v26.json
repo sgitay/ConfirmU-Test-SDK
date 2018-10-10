@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/mipmap-anydpi-v26/ic_launcher_round.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/mipmap-anydpi-v26/ic_launcher.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

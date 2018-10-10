@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5ea1326bacbbb5805950694ce5780b30/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5ea1326bacbbb5805950694ce5780b30/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5ea1326bacbbb5805950694ce5780b30/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5ea1326bacbbb5805950694ce5780b30/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.4.aar/c5e13b7c21652fb91aebd33f3ceb2117/res/layout-v21/place_autocomplete_fragment.xml"
+    }
+]

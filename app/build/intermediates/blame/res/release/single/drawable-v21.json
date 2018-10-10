@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable-v21/choose_option_ripple.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable-v21/choose_option_ripple.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable-v21/ripple_button.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable-v21/ripple_button.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5ea1326bacbbb5805950694ce5780b30/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable-v21/option_left_ripple.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable-v21/option_left_ripple.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable-v21/linkedin_ripple.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable-v21/linkedin_ripple.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable-v21/option_right_ripple.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable-v21/option_right_ripple.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable-v21/cancle_ripple.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable-v21/cancle_ripple.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable-v21/fb_ripple.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable-v21/fb_ripple.xml"
+    }
+]

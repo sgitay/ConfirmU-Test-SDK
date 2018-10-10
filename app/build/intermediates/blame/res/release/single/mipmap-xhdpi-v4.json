@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/home.jpg",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/mipmap-xhdpi/home.jpg"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/wheelers.jpg",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/mipmap-xhdpi/wheelers.jpg"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/car.jpg",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/mipmap-xhdpi/car.jpg"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/wedding.jpg",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/mipmap-xhdpi/wedding.jpg"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_launcher_round.png",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

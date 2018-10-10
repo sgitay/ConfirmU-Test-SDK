@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_2_btn.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_2_btn.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_twiter.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_twiter.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/com_facebook_button_icon.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/res/drawable/com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/circle.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/circle.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/option_left.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/option_left.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_person.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_person.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/message_left.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/message_left.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/com_facebook_auth_dialog_cancel_background.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/com_facebook_button_login_background.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/facebook-login-4.37.0.aar/cc13f8eb6dc3e61c1d6b55a4aba91f4e/res/drawable/com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_about_us.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_about_us.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/option_right.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/option_right.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/message_right.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/message_right.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_app_icon.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_app_icon.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_3_btn.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_3_btn.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/message_box_border.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/message_box_border.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/com_facebook_auth_dialog_header_background.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/res/drawable/com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/seek_bar_drawable.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/seek_bar_drawable.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_launcher_background.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_arrow_drop.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_arrow_drop.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_close_black.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_close_black.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_arrow_back.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_1_btn.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_1_btn.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5ea1326bacbbb5805950694ce5780b30/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_linkedin_logo.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_linkedin_logo.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/button_drawable.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/button_drawable.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_fb.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_fb.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5ea1326bacbbb5805950694ce5780b30/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/linkedin_circle.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/linkedin_circle.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_close_grey.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_close_grey.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_intro_2.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_intro_2.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/signature.png",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/signature.png"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/com_facebook_button_login_silver_background.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/facebook-login-4.37.0.aar/cc13f8eb6dc3e61c1d6b55a4aba91f4e/res/drawable/com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/choose_option.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/choose_option.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/tooltip_frame_light.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_intro_1.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_intro_1.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_thum_up.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_thum_up.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5ea1326bacbbb5805950694ce5780b30/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_twiter_white.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_twiter_white.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/com_facebook_favicon_blue.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/res/drawable/com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_fb_white.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_fb_white.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/white_circle.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/white_circle.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/app_icon.png",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/app_icon.png"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/cancle_circle.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/cancle_circle.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/white_skills.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/white_skills.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5ea1326bacbbb5805950694ce5780b30/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_send.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_send.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/com_facebook_button_like_background.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/res/drawable/com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_instagram_1.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_instagram_1.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/white_border.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/white_border.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/com_facebook_button_login_logo.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/facebook-login-4.37.0.aar/cc13f8eb6dc3e61c1d6b55a4aba91f4e/res/drawable/com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_menu.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/fb_circle.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/fb_circle.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_faq.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_faq.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_dialog_material_background.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/com_facebook_auth_dialog_background.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/res/drawable/com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/thumb.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/thumb.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_intro_3.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_intro_3.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/96818e198a948faf65ac9b3c83857171/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_down.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_down.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/tooltip_frame_dark.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c505452c943c8d435d8105888cdd5cd9/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/com_facebook_button_background.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/facebook-common-4.37.0.aar/6c7056e73b8e1ac5d03ba6d21833030e/res/drawable/com_facebook_button_background.xml"
+    },
+    {
+        "merged": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/build/intermediates/res/merged/release/drawable/ic_check.xml",
+        "source": "/home/user/Documents/Confirm_Backup/ConfirmU-Test-SDK/app/src/main/res/drawable/ic_check.xml"
+    }
+]
