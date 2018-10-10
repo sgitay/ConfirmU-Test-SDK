@@ -123,32 +123,32 @@ public class HomeActivity extends AppCompatActivity implements SeekBar.OnSeekBar
 
     @Override
     public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
-        switch (seekBar.getId()) {
-            case R.id.sb_amount_req:
-                tvAmountRequested.setText("₹ " + progress);
-                tvAmountRequestedHeader.setText("₹ " + progress);
-                sbMonthlyPayment.setMax(progress);
-                tvLoanLength.setText(getLoanLength(progress, sbMonthlyPayment.getProgress()) + " Months");
-                sbLoanLength.setProgress(getLoanLength(progress, sbMonthlyPayment.getProgress()));
-                tvLoanLengthHeader.setText(getLoanLength(progress, sbMonthlyPayment.getProgress()) + " MONTHS");
-                break;
-            case R.id.sb_monthly_pay:
-                tvMonthlyPayment.setText("₹ " + progress);
-                tvMonthlyPaymentHeader.setText("₹ " + progress);
-                tvLoanLength.setText(getLoanLength(sbAmountRequested.getProgress(), progress) + " Months");
-                sbLoanLength.setProgress(getLoanLength(sbAmountRequested.getProgress(), progress));
-                tvLoanLengthHeader.setText(getLoanLength(sbAmountRequested.getProgress(), progress) + " MONTHS");
-                break;
-            case R.id.sb_loan_length:
-                tvLoanLength.setText(progress + " Months");
-                tvLoanLengthHeader.setText(progress + " MONTHS");
-                if (sbAmountRequested.getProgress() > 0) {
-                    int monthlyRepayment = getMonthlyRepayment(sbAmountRequested.getProgress(), progress);
-                    tvMonthlyPayment.setText(String.format(getString(R.string.r_amount), monthlyRepayment));
-                    tvMonthlyPaymentHeader.setText(String.format(getString(R.string.r_amount), monthlyRepayment));
-                    sbMonthlyPayment.setProgress(monthlyRepayment);
-                }
-                break;
+        int i = seekBar.getId();
+        if (i == R.id.sb_amount_req) {
+            tvAmountRequested.setText("₹ " + progress);
+            tvAmountRequestedHeader.setText("₹ " + progress);
+            sbMonthlyPayment.setMax(progress);
+            tvLoanLength.setText(getLoanLength(progress, sbMonthlyPayment.getProgress()) + " Months");
+            sbLoanLength.setProgress(getLoanLength(progress, sbMonthlyPayment.getProgress()));
+            tvLoanLengthHeader.setText(getLoanLength(progress, sbMonthlyPayment.getProgress()) + " MONTHS");
+
+        } else if (i == R.id.sb_monthly_pay) {
+            tvMonthlyPayment.setText("₹ " + progress);
+            tvMonthlyPaymentHeader.setText("₹ " + progress);
+            tvLoanLength.setText(getLoanLength(sbAmountRequested.getProgress(), progress) + " Months");
+            sbLoanLength.setProgress(getLoanLength(sbAmountRequested.getProgress(), progress));
+            tvLoanLengthHeader.setText(getLoanLength(sbAmountRequested.getProgress(), progress) + " MONTHS");
+
+        } else if (i == R.id.sb_loan_length) {
+            tvLoanLength.setText(progress + " Months");
+            tvLoanLengthHeader.setText(progress + " MONTHS");
+            if (sbAmountRequested.getProgress() > 0) {
+                int monthlyRepayment = getMonthlyRepayment(sbAmountRequested.getProgress(), progress);
+                tvMonthlyPayment.setText(String.format(getString(R.string.r_amount), monthlyRepayment));
+                tvMonthlyPaymentHeader.setText(String.format(getString(R.string.r_amount), monthlyRepayment));
+                sbMonthlyPayment.setProgress(monthlyRepayment);
+            }
+
         }
     }
 
